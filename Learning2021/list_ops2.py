@@ -1,0 +1,12 @@
+cars = ["honda","tata","audi","bmw","porche"]
+print(sorted(cars))
+print(cars)
+cars.reverse()
+print(cars)
+cars.reverse()
+print(cars)
+cars.sort()
+print(cars)
+cars.sort(reverse=True)
+print(cars)
+print(cars[5])

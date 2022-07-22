@@ -1,0 +1,23 @@
+<xml version='1.0'?>
+<studentdata>
+    <student>
+        <name>Vignesh S</name>
+        <id>100</id>
+        <department>IT</department>
+    </student>
+    <student>
+        <name>Dhivya U </name>
+        <id>101</id>
+        <department>English</department>
+    </student>
+    <student>
+        <name>Akash S</name>
+        <id>105</id>
+        <department>Commerce</department>
+    </student>
+    <student>
+        <name>Sangari U</name>
+        <id>108</id>
+        <department>Civil</department>
+    </student>
+</studentdata>

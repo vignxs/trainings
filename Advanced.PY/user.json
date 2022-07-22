@@ -1,0 +1,16 @@
+{
+    "emp_details" : [
+        {
+            "emp_name" : "vignesh",
+            "company" : "Intellecto",
+            "year" : "2021"
+        
+        },
+        {
+            "emp_name" : "magesh",
+            "company" : "Intellecto",
+            "year" : "2021"
+        
+        }
+    ]
+}

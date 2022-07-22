@@ -1,0 +1,6 @@
+emp_id,first_name,last_name,birth_day,sex,salary,branch_id
+100,David,Wallace,1967-11-17,M,250000,1
+101,Jan,Levinson,1961-05-11,F,110000,1
+103,Angela,Martin,1971-06-25,F,63000,2
+104,Kelly,Kapoor,1980-02-05,F,55000,3
+105,Stanley,Hudson,1958-02-19,M,69000,3

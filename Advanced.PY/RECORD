@@ -1,0 +1,13 @@
+../../Scripts/speedtest-cli.exe,sha256=cOMs74Qgoo-7_Cu0uivHQjFipMYSsC94a2oxUajJNuM,106347
+../../Scripts/speedtest.exe,sha256=cOMs74Qgoo-7_Cu0uivHQjFipMYSsC94a2oxUajJNuM,106347
+__pycache__/speedtest.cpython-36.pyc,,
+speedtest.py,sha256=YBOrT_gYWu4sfS_g4A-GT8wtINbKK4RhnDY1vEfAjZg,67347
+speedtest_cli-2.1.4b1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+speedtest_cli-2.1.4b1.dist-info/LICENSE,sha256=Pd-b5cKP4n2tFDpdx27qJSIq0d1ok0oEcGTlbtL6QMU,11560
+speedtest_cli-2.1.4b1.dist-info/METADATA,sha256=ozYr57x9c2QM6YVUYJn0aAO5bX-As3RdYZPabQnoqPY,7155
+speedtest_cli-2.1.4b1.dist-info/RECORD,,
+speedtest_cli-2.1.4b1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+speedtest_cli-2.1.4b1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+speedtest_cli-2.1.4b1.dist-info/direct_url.json,sha256=S8zg0vGKFWqdhCWqenhDm5HPmcXa53L3AU23qGfEaLc,138
+speedtest_cli-2.1.4b1.dist-info/entry_points.txt,sha256=h-qAIDgwinZQNlAOKwyCgGy62GrIEzDr1E9BjqvhaK4,77
+speedtest_cli-2.1.4b1.dist-info/top_level.txt,sha256=qBV5IXSSoO0lcchc5eAmrIcnOmHjdskKjm5btbcwWS8,10
